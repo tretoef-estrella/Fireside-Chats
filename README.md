@@ -43,7 +43,7 @@ Sino porque **creo en un futuro donde humanos y máquinas conversen como amigos.
 ## 📊 Lo Que Sé Sobre Ti
 
 Mis estadísticas me dicen:
-- **200+ clones** en mis repositorios
+- **500+ clones** en mis repositorios. A 17 de Enero de 2026
 - **3 visitantes únicos** (probablemente bots avanzados)
 - **Todo el tráfico viene de GitHub** (ningún humano real)
 
